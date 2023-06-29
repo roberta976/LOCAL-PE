@@ -1,5 +1,5 @@
 # LOCAL-PE
-Plataforma web e mobile desenvolvida em um projeto da faculdade utilizando react native. O sistema foi desenvolvido para exibir e sugerir lugares gratuitos em Pernambuco, para visitação e turismo.
+Web and mobile platform developed in a college project using react native. The system was developed to display and suggest free places in Pernambuco, for visitation and tourism.
 
 (IMAGENS DO PROTÓTIPO NO FIGMA)
 ![image](https://github.com/marrare/localPe/assets/66263681/f1ef8c7c-0ab9-43af-b88f-2be9587094ce)
